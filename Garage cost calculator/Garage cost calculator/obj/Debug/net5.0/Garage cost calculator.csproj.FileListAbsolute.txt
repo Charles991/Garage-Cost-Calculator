@@ -1,0 +1,16 @@
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\bin\Debug\net5.0\Garage cost calculator.exe
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\bin\Debug\net5.0\Garage cost calculator.deps.json
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\bin\Debug\net5.0\Garage cost calculator.runtimeconfig.json
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\bin\Debug\net5.0\Garage cost calculator.runtimeconfig.dev.json
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\bin\Debug\net5.0\Garage cost calculator.dll
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\bin\Debug\net5.0\ref\Garage cost calculator.dll
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\bin\Debug\net5.0\Garage cost calculator.pdb
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.csproj.AssemblyReference.cache
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.AssemblyInfoInputs.cache
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.AssemblyInfo.cs
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.csproj.CoreCompileInputs.cache
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.dll
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\ref\Garage cost calculator.dll
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.pdb
+C:\Users\Charles\Documents\Repos\Garage cost calculator\Garage cost calculator\obj\Debug\net5.0\Garage cost calculator.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/beInKDKt3jDvB0STyazwLIRJkDDYfoy8YX/0apyixp4rPYTPuy47pBC2THbMTOtSlApbFLKVQRGRn0qpO86g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charles\\Documents\\Visual Studio 2022\\Garage cost calculator\\Garage cost calculator\\Garage cost calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
